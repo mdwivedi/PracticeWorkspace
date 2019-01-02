@@ -15,6 +15,7 @@ public class sListTest {
            test_slist.insertNode(data[i], pos[i]);
         }
 
+        System.out.println("Display the Linked List");
         test_slist.display();
     }
 
