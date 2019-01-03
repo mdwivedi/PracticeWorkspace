@@ -1,3 +1,5 @@
+package InitialTrials;
+
 import com.sun.tools.hat.internal.util.VectorSorter;
 
 import javax.naming.ldap.HasControls;

@@ -1,3 +1,5 @@
+package InitialTrials;
+
 import java.util.*;
 
 
@@ -103,12 +105,11 @@ class Node {
         }
 
     }
-class LinkList2 {
+class  LinkList2 {
     public static void main(String[] args)
     {
         sList list = new sList(null, 0);
         System.out.println("Welcome to Sample Linked List Program");
-        System.out.println("Do you want to Continue : Y/N ? ");
         Scanner scan = new Scanner(System.in);
         char ch;
         do {

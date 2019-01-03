@@ -1,3 +1,5 @@
+package InitialTrials;
+
 import java.util.*;
 
 public class ArrayVector {
