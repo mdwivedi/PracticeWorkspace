@@ -1,6 +1,9 @@
 package DoublyLinkedLists;
 
 
+/**
+ *  This class is the implementation of doubly linked list
+ */
 public  class DoubleLinkedList {
     private Node head;
     private Node tail;
@@ -12,6 +15,9 @@ public  class DoubleLinkedList {
         this.size = size;
     }
 
+    /**
+     * @return Returns Head node of the list
+     */
     public Node getHead() {
         return head;
     }
@@ -20,6 +26,9 @@ public  class DoubleLinkedList {
         this.head = head;
     }
 
+    /**
+     * @return Returns tail node of the list
+     */
     public Node getTail() {
         return tail;
     }

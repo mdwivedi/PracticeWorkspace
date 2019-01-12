@@ -1,7 +1,7 @@
 package MainFunction;
 
 import DoublyLinkedLists.*;
-import LinkedLists.*;
+//import LinkedLists.*;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class SampleTest {
 
 //        SingleLinkedList s_list = new SingleLinkedList(null, null, 0);
 
-        DoubleLinkedList d_list = new DoubleLinkedList(null, null, 0);
+        DoubleLinkedList list = new DoubleLinkedList(null, null, 0);
 
         Scanner scan = new Scanner(System.in);
         char ch;
